@@ -6,3 +6,5 @@ const myTheme = {
     icon_color = "A0B6BD"
     }
 }
+
+module.exports = themes;
