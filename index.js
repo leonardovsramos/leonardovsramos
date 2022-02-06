@@ -1,5 +1,5 @@
-const myTheme = {
-  default: {
+const themes = {
+  temaLeo: {
     title_color = "FFFFFF",
     bg_color = "034A66",
     text_color = "FFFFFF",
