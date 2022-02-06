@@ -1,17 +1,15 @@
 <div align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&"/>
-</div>
-<div align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&langs_count=7&theme=dark&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&hide=hack"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&langs_count=7&theme=dark&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&hide=hack"/>
 </div>
 
 
 <div align="center">
   <a href="https://github.com/leonardovsramos/projeto_portfolio">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=034A66" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=034A66" />
   </a>
 <a href="https://github.com/leonardovsramos/INNOUT">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=034A66" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=034A66" />
 </a>
 </div>
 
