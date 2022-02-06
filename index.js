@@ -349,10 +349,10 @@ const themes = {
     bg_color: "F5E1C0",
   },
   temaLeo: {     
-    title_color: "FFFFFF",     
-    bg_color: "034A66",     
-    text_color: "FFFFFF",     
-    icon_color: "A0B6BD",     
+    title_color: "FFFFFF",
+    icon_color: "A0B6BD",
+    text_color: "FFFFFF",
+    bg_color: "034A66",          
   },
 };
 
