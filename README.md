@@ -4,11 +4,17 @@
 
 <div align="center">
   <a href="https://github.com/leonardovsramos">
-  <img width="1rem" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&langs_count=7&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&hide=hack"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&langs_count=7&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&hide=hack"/>
 </div>
-
-
+  
+<div align="center">
+  
+| <a href="https://github.com/leonardovsramos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/leonardovsramos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&theme=buefy&hide_border=true" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+  
+</div>
+  
 <div align="center">
   <a href="https://github.com/leonardovsramos/projeto_portfolio">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=034A66" />
