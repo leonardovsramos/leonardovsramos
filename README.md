@@ -12,7 +12,7 @@
 #### Top Repositories
 <div align="center">
   <a href="https://github.com/leonardovsramos/projeto_portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=030027&icon_color=030027" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Projeto_Portfolio&title_color=030027&icon_color=030027" />
   </a>
   <a href="https://github.com/leonardovsramos/INNOUT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=030027&icon_color=030027" />
