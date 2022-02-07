@@ -1,35 +1,29 @@
 ### Olá, tudo bem? <br> Meu nome é Leonardo, sou Bacharel em Física e Graduando em Engenharia de Software
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/leonardovsramos">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&langs_count=7&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&hide=hack"/>
-</div>
   
 <div align="center">
   
-| <a href="https://github.com/leonardovsramos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/leonardovsramos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&theme=buefy&hide_border=true" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://github.com/leonardovsramos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&text_color=975E20&title_color=030027&icon_color=030027" alt="Leonardo's github stats" /></a> | <a href="https://github.com/leonardovsramos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&locale=pt-br&hide_border=true&text_color=030027&title_color=030027&hide=hack&" /></a> |
+|:-:|:-:|
   
 </div>
   
 <div align="center">
   <a href="https://github.com/leonardovsramos/projeto_portfolio">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=034A66" />
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=030027&icon_color=030027" />
   </a>
   <a href="https://github.com/leonardovsramos/INNOUT">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=034A66" />
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=030027&icon_color=030027" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/leonardovsramos/Curso_PHP_Cod3r">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=034A66" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=030027&icon_color=030027" />
   </a>
   <a href="https://github.com/leonardovsramos/Desafio_Javascript">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=034A66" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=030027&icon_color=030027" />
   </a>
 </div>
 
