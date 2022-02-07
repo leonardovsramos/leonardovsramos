@@ -17,6 +17,15 @@
 </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/leonardovsramos/Curso_PHP_Cod3r">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=034A66" />
+  </a>
+<a href="https://github.com/leonardovsramos/Desafio_Javascript">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=034A66" />
+</a>
+</div>
+
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Leonardo-HTML" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
