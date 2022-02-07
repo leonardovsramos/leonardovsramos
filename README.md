@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/leonardovsramos">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&"/>
+  <img width="1rem" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&langs_count=7&title_color=FFFFFF&bg_color=034A66&text_color=FFFFFF&icon_color=A0B6BD&locale=pt-br&hide=hack"/>
 </div>
 
