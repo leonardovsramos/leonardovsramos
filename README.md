@@ -18,8 +18,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/leonardovsramos/curso_PHP_cod3r">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=curso_PHP_cod3r&title_color=034A66" />
+  <a href="https://github.com/leonardovsramos/Curso_PHP_Cod3r">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=034A66" />
   </a>
 <a href="https://github.com/leonardovsramos/Desafio_Javascript">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=034A66" />
