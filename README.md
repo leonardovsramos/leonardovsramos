@@ -10,19 +10,19 @@
 
 <div align="center">
   <a href="https://github.com/leonardovsramos/projeto_portfolio">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=034A66" />
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=034A66" />
   </a>
 <a href="https://github.com/leonardovsramos/INNOUT">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=034A66" />
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=INNOUT&title_color=034A66" />
 </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/leonardovsramos/Curso_PHP_Cod3r">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=034A66" />
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=034A66" />
   </a>
 <a href="https://github.com/leonardovsramos/Desafio_Javascript">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=034A66" />
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=034A66" />
 </a>
 </div>
 
