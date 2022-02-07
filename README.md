@@ -8,7 +8,8 @@
 |:-:|:-:|
   
 </div>
-  
+
+#### Top Repositories
 <div align="center">
   <a href="https://github.com/leonardovsramos/projeto_portfolio">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=projeto_portfolio&title_color=030027&icon_color=030027" />
@@ -20,10 +21,10 @@
 
 <div align="center">
   <a href="https://github.com/leonardovsramos/Curso_PHP_Cod3r">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=030027&icon_color=030027" />
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=030027&icon_color=030027" />
   </a>
   <a href="https://github.com/leonardovsramos/Desafio_Javascript">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=030027&icon_color=030027" />
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=030027&icon_color=030027" />
   </a>
 </div>
 
