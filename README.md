@@ -7,6 +7,7 @@
 | <a href="https://github.com/leonardovsramos"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardovsramos&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&text_color=975E20&title_color=030027&icon_color=030027" alt="Leonardo's github stats" /></a> |
 | <a href="https://github.com/leonardovsramos"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovsramos&layout=compact&locale=pt-br&hide_border=true&text_color=030027&title_color=030027&hide=hack&" /></a> |
 |:-:|
+|:-:|
   
 </div>
 
