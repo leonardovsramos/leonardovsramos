@@ -11,7 +11,7 @@
 
 #### Top Repositories
 <div align="center">
-  <a href="https://github.com/leonardovsramos/projeto_portfolio">
+  <a href="https://github.com/leonardovsramos/Projeto_Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Projeto_Portfolio&title_color=030027&icon_color=030027" />
   </a>
   <a href="https://github.com/leonardovsramos/INNOUT">
@@ -20,10 +20,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/leonardovsramos/Curso_PHP_Cod3r">
+  <a href="https://github.com/leonardovsramos/Curso_Cod3r_PHP">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Curso_PHP_Cod3r&title_color=030027&icon_color=030027" />
   </a>
-  <a href="https://github.com/leonardovsramos/Desafio_Javascript">
+  <a href="https://github.com/leonardovsramos/TI_Academy_Desafio_Javascript">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonardovsramos&repo=Desafio_Javascript&title_color=030027&icon_color=030027" />
   </a>
 </div>
